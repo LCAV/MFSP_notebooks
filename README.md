@@ -1,4 +1,4 @@
-# 
+# MFSP teaching notebooks
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/adamscholefield/MFSP_notebooks/master)
 
 This rep contains jupyter notebooks for teaching mathematical foundations of signal processing.
