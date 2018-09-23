@@ -1,8 +1,11 @@
-# Finite dimensional inverse problems: a geometrical perspective
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/adamscholefield/)
+# 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/adamscholefield/MFSP_notebooks/master)
 
-This rep contains a jupyter notebook for teaching finite dimensional inverse problems.
+This rep contains jupyter notebooks for teaching mathematical foundations of signal processing.
 
-For simplicity, you can run the notebook using Binder: [https://mybinder.org/v2/gh/adamscholefield/](https://mybinder.org/v2/gh/adamscholefield/)
+For simplicity, you can run the notebooks using Binder: [https://mybinder.org/v2/gh/adamscholefield/MFSP_notebooks/master](https://mybinder.org/v2/gh/adamscholefield/MFSP_notebooks/master)
 
-Alternatively, if you wish to run the notebook locally, a list of required packages is given in the requirements.txt.
+Alternatively, if you wish to run the notebooks locally, a list of required packages is given in the requirements.txt.
+
+The following notebooks are included:
+1. Finite dimensional inverse problems: a geometrical perspective
